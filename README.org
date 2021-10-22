@@ -1,0 +1,41 @@
+* MIAI-Edge Intelligence Paper Discussions
+
+This repository holds all material developed during the paper discussions of the
+MIAI Edge Intelligence group of LIG (Laboratoire d'Informatique de Grenoble).
+
+Members:
+
+- Danilo Carastan dos Santos (post-doc, mediator)
+- Luis Closson (PhD student)
+- Anderson Andrei da Silva (PhD student)
+- Mathilde Jay (PhD student)
+
+** Notebooks
+
+Below is a table contaning links for the notes of each participant
+
+A general discussion notebook can be found in [[./Notes_general.org]]
+
+| Danilo   | [[./Notes_DCS.org]] |
+| Louis    | [[./Notes_LC.org]]  |
+| Anderson | [[./Notes_AAS.org]] |
+| Mathilde | [[./Notes_MJ.org]]  |
+
+** Goal
+
+The goal is to increase the knowledge of the group in regards to Artificial
+Intelligence (AI) and Edge Computing (EC), with a focus on low-cost AI and
+carbon footprint of these technologies. This repository registers all the
+obervations and remarks noted during the discussions.
+
+** List of papers
+
+1. Zhou, Zhi, Xu Chen, En Li, Liekang Zeng, Ke Luo, and Junshan Zhang. "Edge
+   intelligence: Paving the last mile of artificial intelligence with edge
+   computing." Proceedings of the IEEE 107, no. 8 (2019): 1738-1762.
+2. Lacoste, Alexandre, Alexandra Luccioni, Victor Schmidt, and Thomas
+   Dandres. "Quantifying the carbon emissions of machine learning." arXiv
+   preprint arXiv:1910.09700 (2019).
+3. Patterson, David, Joseph Gonzalez, Quoc Le, Chen Liang, Lluis-Miquel Munguia,
+   Daniel Rothchild, David So, Maud Texier, and Jeff Dean. "Carbon emissions and
+   large neural network training." arXiv preprint arXiv:2104.10350 (2021).
