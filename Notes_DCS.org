@@ -1,0 +1,21 @@
+* Paper Notes
+** Unraveling the hidden environmental impacts of AI solutions for environment
+- https://arxiv.org/pdf/2110.11822.pdf
+
+This paper suggests to evaluate AI frameworks using a Life Cycle Assessment
+(LCA) methodology. LCA seems well known to evaluate the environmental costs of
+many manufacturing processes, and may help to give a broader view of the
+environmental costs of developping AI algorithms, since it takes into account a
+wide number of aspects, such as raw material extraction, devices manufacturing,
+development of the AI model, using the AI model, and end of life of
+devices. Most Green AI papers evaluate only in terms of energy consumption.
+
+The paper also highlights that some LCA aspects are hard to collect, for
+instance LCA information about GPUs.
+
+The paper also argues that third order effects (societal changes, rebound
+effects, etc) are underexplored in the litterature, ahd these should be taken
+into account, or at least mentioned (with possible predictions) in AI
+environmental cost studies.
+
+ 
