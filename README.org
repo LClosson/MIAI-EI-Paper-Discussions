@@ -7,7 +7,6 @@ Members:
 
 - Danilo Carastan dos Santos (post-doc, mediator)
 - Luis Closson (PhD student)
-- Anderson Andrei da Silva (PhD student)
 - Mathilde Jay (PhD student)
 
 ** Notebooks
@@ -16,9 +15,9 @@ Below is a table contaning links for the notes of each participant
 
 A general discussion notebook can be found in [[./Notes_general.org]]
 
+
 | Danilo   | [[./Notes_DCS.org]] |
 | Louis    | [[./Notes_LC.org]]  |
-| Anderson | [[./Notes_AAS.org]] |
 | Mathilde | [[./Notes_MJ.org]]  |
 
 ** Goal
@@ -39,3 +38,5 @@ obervations and remarks noted during the discussions.
 3. Patterson, David, Joseph Gonzalez, Quoc Le, Chen Liang, Lluis-Miquel Munguia,
    Daniel Rothchild, David So, Maud Texier, and Jeff Dean. "Carbon emissions and
    large neural network training." arXiv preprint arXiv:2104.10350 (2021).
+4. Unraveling the hidden environmental impacts of AI solutions for environment
+   (https://arxiv.org/pdf/2110.11822.pdf)
