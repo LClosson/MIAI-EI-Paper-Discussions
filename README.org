@@ -6,14 +6,14 @@ MIAI Edge Intelligence group of LIG (Laboratoire d'Informatique de Grenoble).
 Members:
 
 - Danilo Carastan dos Santos (post-doc, mediator)
-- Luis Closson (PhD student)
+- Louis Closson (PhD student)
 - Mathilde Jay (PhD student)
 
 ** Notebooks
 
-Below is a table contaning links for the notes of each participant
+Below is a table contaning links for the notes of each participant.
 
-A general discussion notebook can be found in [[./Notes_general.org]]
+A general discussion notebook can be found in [[./Notes_general.org]].
 
 
 | Danilo   | [[./Notes_DCS.org]] |
@@ -40,3 +40,7 @@ obervations and remarks noted during the discussions.
    large neural network training." arXiv preprint arXiv:2104.10350 (2021).
 4. Unraveling the hidden environmental impacts of AI solutions for environment
    (https://arxiv.org/pdf/2110.11822.pdf)
+5. Murshed, M. G. Sarwar, Christopher Murphy, Daqing Hou, Nazar Khan,
+   Ganesh Ananthanarayanan, et Faraz Hussain. «Machine Learning at
+   the Network Edge: A Survey». ACM Computing Surveys 54, nᵒ 8
+   (30 novembre 2022): 1‑37. [[https://doi.org/10.1145/3469029]].
