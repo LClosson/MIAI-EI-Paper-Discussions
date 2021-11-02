@@ -1,0 +1,30 @@
+Markus Nagel, Marios Fournarakis, Mart van Baalen, Tijmen Blankevoort,
+"A White Paper on Neural Network Quantization", 15 Jun 2021
+https://arxiv.org/pdf/2106.08295v1.pdf
+
+
+This white paper empphisize the potential of quantisation and shows how to limit the noise from quantisation. We consider here the quantisation of neural networks themselves.
+
+As reminder, quantisation is a technique of model compression where we change existing coding to a lower precision.
+For instance, we may convert FP32(32-bits floating numbers) into INT8(integers on 8 bits) BUT we may keep the final accuracy of networks used.
+
+Chosing a quantization is chosing a scheme, a granularity and a bit-width.
+Quantization can be partial, asymetric and change over the neural networks layers. Howerver, this article only developpes the  homogeneous bit-width case.
+Thus, it is basically defined by scale factor, zero-point and bit-width parameters. From 32bits to 8bits, it is less than 4 times faster, because a part of the quantization information is coded next to data.
+
+We can encounter "tensor quantization", with parameters for the weights and the activation function.
+A "per-channel quantization" may be used for each output vector of a tensor instead, but the first one is more hardware friendly.
+
+Each layer can be quantized differently, and it depends on their use. Most used layers are quoted as examples.
+
+
+
+
+Quantisation is lied to hardware architecture, as described first, which motives and leads algorithms design.
+The part 2 discribes how steps from basic neural networks training can be linked to quantization.
+The part 3 focuses on post-training quantization, which converts a trained neural network. It also deals with optimisation (by quantisation) during inference.
+
+
+
+useful link: 
+https://iq.opengenus.org/basics-of-quantization-in-ml/
