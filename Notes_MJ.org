@@ -4,23 +4,22 @@
    This survey was pre-published in May 2021 and covers how
    learning techniques (deep, machine, resource-constraint, SVM,
    trees) were adapted to edge computing. It first focuses on how the
-   models were used in resource-constrained settings in three
-   catergies:
+   models were used in resource-constrained settings in the following
+   categories:
    - Lighter and Faster architectures
    - Distributed Training
    - Model compression
    - Distributed inference
    The section I thought was the most interesting for us at this point
-   is the application section. It is written that the most commun
-   usage of ML in the edges are diverse:
-   - Computer vision applications: from traffic planning to object
-     recognition and surveillance
-   - Speech Recognition - or voice assistance
-   - User Privacy: Process the sensitive data without sending them to
-     the cloud
-   - Fraud Detection
-   - Creating new datasets: reducing labeling
-   - Autonomous Vehicles: on the road, critical in latency
-   - Smart Homes and Cities
-   - Human safety
-   - Augmented Cognition
+   is the application section. It is stated that the most commun
+   usage of ML in the edges are diverse: Computer vision applications
+   (from traffic planning to object, recognition and surveillance),
+   Speech Recognition - or voice assistance,
+   User Privacy: Process the sensitive data without sending them to
+     the cloud,
+   Fraud Detection,
+   Creating new datasets (reducing labeling),
+   Autonomous Vehicles (on the road, critical in latency),
+   Smart Homes and Cities,
+   Human safety,
+   Augmented Cognition.
